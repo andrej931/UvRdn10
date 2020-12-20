@@ -1,2 +1,1 @@
-# UvRdn10
-domača naloga
+\n Tukaj je komentar študenta B
